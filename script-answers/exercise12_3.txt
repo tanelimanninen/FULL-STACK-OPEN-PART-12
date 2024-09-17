@@ -1,0 +1,5 @@
+root@d8e5f43c22f3:/# cd usr/src/app
+root@d8e5f43c22f3:/usr/src/app# ls
+index.js
+root@d8e5f43c22f3:/usr/src/app# nano index.js
+root@d8e5f43c22f3:/usr/src/app#
